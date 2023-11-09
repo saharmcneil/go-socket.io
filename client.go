@@ -13,7 +13,7 @@ import (
 	"github.com/googollee/go-socket.io/parser"
 )
 
-var EmptyAddrErr = errors.New("empty addr")
+var EmptyAddrErr = errors.New("empty addr2")
 
 // Client is client for socket.io server
 type Client struct {
